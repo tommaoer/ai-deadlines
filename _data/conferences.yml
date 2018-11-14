@@ -20,6 +20,16 @@
   date: June 15-21, 2019
   place: Long Beach, USA
   sub: CV
+  
+- title: SIGGRAPH
+  year: 2019
+  id: SIGGRAPH19
+  link: https://s2019.siggraph.org/conference/programs-events/technical-papers/technical-papers-submissions/
+  deadline: "2019-01-14 21:59:59"
+  timezone: Etc/GMT
+  date: August 15-21, 2019
+  place: Long Beach, USA
+  sub: Graphic
 
 - title: NAACL
   year: 2019
